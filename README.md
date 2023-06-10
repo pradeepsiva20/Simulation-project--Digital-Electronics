@@ -1,5 +1,5 @@
 # TITTLE
-To Design and simulate mod 5 synchronous up counter with JK flip flop using Verilog
+To Design and simulate mod 7 synchronous up counter with JK flip flop using Verilog
 
 # THEORY
 
